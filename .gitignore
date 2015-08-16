@@ -2,6 +2,5 @@
 *.phar
 phpunit.xml
 package.xml
-composer.lock
 experiments/
 vendor/
